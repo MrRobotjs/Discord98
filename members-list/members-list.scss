@@ -1,5 +1,14 @@
 .membersWrap-2h-GB4 {
     margin-top: -50px;
+    &::before {
+        content: "";
+        width: 2px;
+        background: grey;
+        position: relative;
+        left: -1px;
+        z-index: 101;
+        top: 5px;
+    }
     .members-1998pB {
         background-color: #007e7d;
         display: flex;

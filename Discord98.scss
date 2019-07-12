@@ -10,7 +10,7 @@
                     position: relative;
                     color: #000;
                     background: silver;
-                    border-top: 2px solid #fff;
+                    border-top: 3px solid #fff;
                 }
             }
             .scrollerFade-1Ijw5y {
@@ -160,8 +160,9 @@
         background-color: #c0c0c0;
         .title-3qD0b- {
             width: calc(100% - 241px);
+            box-shadow: inset 0 9px 0 -7px #fff, inset 0px 0 grey;
+            border-top: 1px solid #fff;
             background-color: #c0c0c0;
-            box-shadow: inset 0px 9px 0px -7px #fff, inset -2px 0px #808080;
             .children-19S4PO {
                 .title-29uC1r {
                     color: #000;
