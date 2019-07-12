@@ -489,14 +489,17 @@
   border: solid 1px;
   border-color: #ffffff #2b2b2b #2b2b2b #ffffff;
   box-shadow: 1px 1px 0px 0px #5c5c5c, -1px -1px 0px 0px silver; }
-  .contextMenu-HLZMGh .itemGroup-1tL0uz .item-1Yvehc {
-    color: #000;
-    border-radius: 0; }
-    .contextMenu-HLZMGh .itemGroup-1tL0uz .item-1Yvehc::first-letter {
-      text-decoration: underline; }
-    .contextMenu-HLZMGh .itemGroup-1tL0uz .item-1Yvehc:hover {
-      background-color: #000080;
-      color: #fff !important; }
+  .contextMenu-HLZMGh .itemGroup-1tL0uz {
+    border-top: unset;
+    box-shadow: inset 0px 2px 0px 0px #949494, inset 0px 3px 0px 0px #e8e8e8; }
+    .contextMenu-HLZMGh .itemGroup-1tL0uz .item-1Yvehc {
+      color: #000;
+      border-radius: 0; }
+      .contextMenu-HLZMGh .itemGroup-1tL0uz .item-1Yvehc::first-letter {
+        text-decoration: underline; }
+      .contextMenu-HLZMGh .itemGroup-1tL0uz .item-1Yvehc:hover {
+        background-color: #000080;
+        color: #fff !important; }
   .contextMenu-HLZMGh .itemSubMenu-1vN_Yn {
     color: #000;
     border-radius: 0; }
