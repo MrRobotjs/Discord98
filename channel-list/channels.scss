@@ -133,6 +133,7 @@
                         }
                     }
                 }
+                /* Selects only channels that are IN a category, Unable to use since Discord has lazy loading on channels.
                 .containerDefault-3GGEv_,
                 >div[draggable="true"]:not([class="containerDefault-1ZnADq"]) {
                     ~.containerDefault-1ZnADq {
@@ -145,7 +146,7 @@
                             }
                         }
                     }
-                }
+                } */
             }
         }
     }
@@ -154,12 +155,12 @@
         margin: unset;
         position: absolute;
         bottom: 0;
-        width: 100%;
+        width: 93.5%;
         z-index: 1;
         height: 30px;
-        display: flex;
         border-top: 2px solid #fff;
         display: flex;
+        padding-left: 98px;
         .nameTag-3uD-yy {
             flex-grow: unset;
             margin: unset;
