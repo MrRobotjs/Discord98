@@ -1,0 +1,8 @@
+{
+  "name": "Discord98",
+  "description": "Windows 98 for Discord",
+  "version": "1.0.0",
+  "author": "MrRobot",
+  "license": "No license",
+  "theme": "main.scss"
+}
